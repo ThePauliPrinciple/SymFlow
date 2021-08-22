@@ -8,8 +8,9 @@ Welcome to SymFlow's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Python API:
 
+   source/api/symlayer
 
 
 Indices and tables
